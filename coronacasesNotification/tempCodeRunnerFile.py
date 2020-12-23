@@ -1,0 +1,2 @@
+
+def getDatafromUrl(url):
